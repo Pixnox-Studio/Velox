@@ -1,6 +1,6 @@
 # Velox
 
-![AYNU](VeloxEngine/VeloxIcon.png)
+![AYNU](VeloxEngine/velox_icon.png)
 
 # Velox Game Engine
 
