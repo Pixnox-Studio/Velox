@@ -1,6 +1,6 @@
 # Velox
 
-Banner_gif.gif
+![Banner_gif](https://github.com/user-attachments/assets/70158f11-642c-4981-9b2b-d222d6d29aff)
 
 
 # Velox Game Engine
