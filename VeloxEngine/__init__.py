@@ -4,10 +4,15 @@
 # ========================================
 from .core.engine import Engine
 from .core.window import (
-    WINDOW_CONFIG,
+    window_config,
     WINDOW_BACKGROUND_COLOR,
     WINDOW_SIZE,
-    WINDOW_TITLE
+    WINDOW_TITLE,
+    WINDOW_ICON,
+    WINDOW_VSYNC,
+    WINDOW_RESIZEABLE,
+    WINDOW_BORDERLESS,
+    WINDOW_FULLSCREEN,
 )
 
 # ========================================
@@ -30,10 +35,15 @@ from .components.component import Component
 
 __all__ = [
     "Engine",
-    "WINDOW_CONFIG",
+    "window_config",
     "WINDOW_BACKGROUND_COLOR",
     "WINDOW_SIZE",
     "WINDOW_TITLE",
+    "WINDOW_ICON",
+    "WINDOW_FULLSCREEN",
+    "WINDOW_VSYNC",
+    "WINDOW_RESIZEABLE",
+    "WINDOW_BORDERLESS",
 
     "Scene",
 
