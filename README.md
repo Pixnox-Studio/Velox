@@ -1,6 +1,7 @@
 # Velox
 
-https://github.com/Pixnox-Studio/Velox/blob/main/Banner_gif.gif
+Banner_gif.gif
+
 
 # Velox Game Engine
 
