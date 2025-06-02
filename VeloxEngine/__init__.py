@@ -1,22 +1,19 @@
-from .VeloxE import (
-    init,
-    quit,
-    display_set_mode,
-    display_set_caption,
-    display_flip,
-    event_get,
-    key_get_pressed,
-    Surface,
-    Rect,
-    Clock,
-    K_w,
-    K_a,
-    K_s,
-    K_d,
-    K_UP,
-    K_DOWN,
-    K_LEFT,
-    K_RIGHT,
-    K_ESCAPE,
-    QUIT,
+
+# ========================================
+#                  CORE
+# ========================================
+from .core.engine import Engine
+from .core.window import (
+    WINDOW_CONFIG,
+    WINDOW_BACKGROUND_COLOR,
+    WINDOW_SIZE,
+    WINDOW_TITLE
 )
+
+__all__ = [
+    "Engine",
+    "WINDOW_CONFIG",
+    "WINDOW_BACKGROUND_COLOR",
+    "WINDOW_SIZE",
+    "WINDOW_TITLE"
+]
