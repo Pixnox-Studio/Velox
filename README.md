@@ -3,11 +3,11 @@
 
 **Velox** is a lightweight, fast, and flexible game engine developed by **Pixnox Studios**. Designed for indie developers and hobbyists, Velox empowers creators to bring their game ideas to life with performance-focused tools and an intuitive architecture.
 
-## 🚀 Features
+[//]: # (## 🚀 Features)
 
-- ⚡ High-performance update loop
-- 🧰 Built-in physics & collision system (in progress)
-- 📝 Scene graph and scripting support
+[//]: # (- ⚡ High-performance update loop)
+[//]: # (- 🧰 Built-in physics & collision system &#40;in progress&#41;)
+[//]: # (- 📝 Scene graph and scripting support)
 
 ## 📦 Installation
 
