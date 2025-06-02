@@ -1,6 +1,7 @@
 # Velox
 
-![AYNU](VeloxEngine/velox_icon.png)
+![AYNU (1)](https://github.com/user-attachments/assets/af3b57d3-64f1-4001-8f81-14de69dc2f3d)
+
 
 # Velox Game Engine
 
